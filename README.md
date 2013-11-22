@@ -1,4 +1,4 @@
-the_behemoth_document
+TheBehemothDocument
 =====================
 
 ## About this Document

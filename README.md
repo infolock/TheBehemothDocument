@@ -8,7 +8,7 @@ This is a compilation of information I’ve gathered over the years either for i
 This document is not intended for those who has zero knowledge of the concepts covered here or plans to use this document to falsify their skillset. If you do, and then don't get the job when they bring you onsite to prove it in person - well, don't blame me, nor should you be surprised if/when you are publically blacklisted for it either.  Just saying...  Not for you.  K.
 
 ## Who this Document IS Intended for
-This document is intended for anyone who understands the majority of the context within this document, and are simply looking for something to work as a refresher to some core concepts, definitions and terminology that you may need help remembering.
+This document is intended for anyone who understands the majority of the context within this document, are simply looking for something to work as a refresher to some core concepts, definitions and terminology that you may need help remembering, and/or someone who is interested in the concepts/knoweldge needed for upper-tier development positions.
 
 ## What is Contained Inside
 There are 3 main parts to this document:

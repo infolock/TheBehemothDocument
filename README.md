@@ -5,7 +5,7 @@ TheBehemothDocument
 This is a compilation of information I’ve gathered over the years either for interview preparation, while researching a language/feature/etc., or referred to by a friend.  Very little (maybe a few sentences here and there) are things I’ve written up (which you should be able to identify easily).
 
 ## Who this Document is NOT Intended for
-This document is not intended for those who wish to be considered a prodigy over a phone screen. If, however, you use this during your phone screens just to make it to the in-person interview – well, be prepared for the fact that you may never be invited back, may be exposed publically, and may even find yourself unable to land another interview at any other company.  Just saying...  Not for you.  K.
+This document is not intended for those who has zero knowledge of the concepts covered here or plans to use this document to falsify their skillset. If you do, and then don't get the job when they bring you onsite to prove it in person - well, don't blame me, nor should you be surprised if/when you are publically blacklisted for it either.  Just saying...  Not for you.  K.
 
 ## Who this Document IS Intended for
 This document is intended for anyone who understands the majority of the context within this document, and are simply looking for something to work as a refresher to some core concepts, definitions and terminology that you may need help remembering.
